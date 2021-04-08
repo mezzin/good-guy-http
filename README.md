@@ -1,4 +1,5 @@
 # good-guy-http
+Just a small update to the libs no feature changes.
 
 [![Build Status](https://travis-ci.org/Schibsted-Tech-Polska/good-guy-http.svg?branch=master)](https://travis-ci.org/Schibsted-Tech-Polska/good-guy-http) [![Coverage Status](https://coveralls.io/repos/Schibsted-Tech-Polska/good-guy-http/badge.svg?branch=master)](https://coveralls.io/r/Schibsted-Tech-Polska/good-guy-http?branch=master) [![Dependency status](https://david-dm.org/Schibsted-Tech-Polska/good-guy-http.svg)](https://david-dm.org/Schibsted-Tech-Polska/good-guy-http)
 
