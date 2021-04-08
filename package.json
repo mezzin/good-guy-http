@@ -19,19 +19,19 @@
   },
   "dependencies": {
     "@schibstedpl/circuit-breaker-js": "0.0.2",
-    "capitalize": "^1.0.0",
-    "clone": "2.1.1",
-    "request": "2.87.0",
-    "underscore": "1.8.3"
+    "capitalize": "^2.0.3",
+    "clone": "2.1.2",
+    "request": "2.88.2",
+    "underscore": "1.12.1"
   },
   "devDependencies": {
-    "coveralls": "^3.0.2",
-    "express": "^4.13.3",
+    "coveralls": "^3.1.0",
+    "express": "^4.17.1",
     "istanbul": "^0.4.2",
-    "jshint": "^2.8.0",
+    "jshint": "^2.12.0",
     "mocha": "^5.2.0",
     "q": "^1.4.1",
-    "sinon": "^6.1.5",
-    "supertest": "^3.0.0"
+    "sinon": "^6.3.5",
+    "supertest": "^3.4.2"
   }
 }
