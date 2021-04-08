@@ -8,6 +8,9 @@
     "test": "./node_modules/mocha/bin/mocha --recursive",
     "coverage": "./node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha -- --recursive"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "http",
     "client"
